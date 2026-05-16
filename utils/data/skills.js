@@ -1,0 +1,18 @@
+export const skillsData = [
+  'Python',
+  'C',
+  'Java',
+  'MySQL',
+  'PostgreSQL',
+  'Django',
+  'Git',
+  'Linux',
+  'Tensorflow',
+  'Pandas',
+  'NumPy',
+  'Sklearn',
+  'Azure',
+  'HTML',
+  'CSS',
+  'JavaScript',
+]
